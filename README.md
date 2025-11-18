@@ -137,10 +137,12 @@ Detail teknik pembersihan firmware ada di:
 
 Semua penjelasan teknis mendalam tersedia dalam dokumen:
 📄 **ESET-LoJax.pdf**
-[Document]()
+[Document](https://github.com/Y0xDft07/LOJAX/blob/main/ESET-LoJax.pdf)
 
 ---
 
-## 📝 Lisensi
+## 📝 [Lisensi]
+
+[License](https://github.com/Y0xDft07/LOJAX/blob/main/LICENSE)
 
 Dokumen ini bersifat informatif dan hanya dapat digunakan untuk keperluan "edukasi atau penelitian keamanan".
